@@ -1,0 +1,24 @@
+<xs:element name="book">
+
+<xs:complexType>
+  <xs:sequence>
+    <xs:element name="book_id" type="xs:ID"/>
+    <xs:element name="title" type="xs:string"/>
+    <xs:element name="author_name" type="xs:string"/>
+    <xs:element name="author_surname" type="xs:string"/>
+    <xs:element name="author_id" type="xs:ID"/>
+    <xs:element name="gender" type="xs:string"/>
+    <xs:element name="nationality" type="xs:string"/>
+    <xs:element name="birth_date" type="xs:gYear"/>
+    <xs:element name="death_date" type="xs:gYear"/>
+    <xs:element name="date_release" type="xs:gYear"/>
+    <xs:element name="language" type="xs:string"/>
+    <xs:element name="number_pages" type="xs:integer"/>
+    <xs:element name="isbn" type="xs:integer"/>
+    <xs:element name="publisher_name" type="xs:string"/>
+    <xs:element name="publisher_id" type="xs:ID"/>
+    <xs:element name="country" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+
+</xs:element>

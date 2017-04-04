@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<rdf:Description
+rdf:about="https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows">
+  <book:identifier>7</book:identifier>
+  <book:title>Harry Potter and the Deathly Hallows</book:title>
+  <book:creator>Joanne Rowling</book:creator>
+  <book:year>2007</book:year>
+  <book:language>en</book:language>
+  <book:publisher>Scholastic Inc.</book:publisher>
+  <publisher:location>USA</publisher:location>
+</rdf:Description>
+
+</rdf:RDF>

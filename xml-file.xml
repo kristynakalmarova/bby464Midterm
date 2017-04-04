@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list of my favourite books>
+
+  <book>
+    <book_id>1</book_id>
+    <title lang="en">Harry Potter and the Philosopher´s Stone</title>
+    <author>
+        <author_name>Joanne</author_name>
+        <author_surname>Rowling</author_surname>
+        <author_id>3107</author_id>
+        <gender>female</gender>
+        <nationality>british</nationality>
+        <birth_date>1965</birth_date>
+    </author>
+    <date_release>1997</date_release>
+    <language>english</language>
+    <number_pages>320</number_pages>
+    <isbn>439554934</isbn>
+    <publisher>
+       <publisher_name>Arthur A. Levine Books</publisher_name>
+       <publisher_id>325</publisher_id>
+       <country>USA</country>
+    </publisher>
+  </book>
+  
+  <book>
+    <book_id>8</book_id>
+    <title lang="en">Veronika Decides to Die</title>
+    <author>
+        <author_name>Paulo</author_name>
+        <author_surname>Coelho</author_surname>
+        <author_id>2408</author_id>
+        <gender>male</gender>
+        <nationality>brazilian</nationality>
+        <birth_date>1947</birth_date>
+    </author>
+    <date_release>1998</date_release>
+    <language>portuguese</language>
+    <number_pages>210</number_pages>
+    <isbn>61124265</isbn>
+    <publisher>
+       <publisher_name>Harper Perrenial</publisher_name>
+       <publisher_id>403</publisher_id>
+       <country>USA</country>
+    </publisher>
+  </book>
+  
+   <book>
+    <book_id>9</book_id>
+    <title lang="en">A Room of One´s Own</title>
+    <author>
+        <author_name>Virginia</author_name>
+        <author_surname>Woolf</author_surname>
+        <author_id>2501</author_id>
+        <gender>female</gender>
+        <nationality>british</nationality>
+        <birth_date>1882</birth_date>
+        <death_date>1941</death_date>
+    </author>
+    <date_release>1929</date_release>
+    <language>english</language>
+    <number_pages>112</number_pages>
+    <isbn>141183535</isbn>
+    <publisher>
+       <publisher_name>Penguin Books</publisher_name>
+       <publisher_id>511</publisher_id>
+       <country>UK</country>
+    </publisher>
+  </book>
+  
+  <book>
+    <book_id>11</book_id>
+    <title lang="en">The World According to Garp</title>
+    <author>
+        <author_name>John</author_name>
+        <author_surname>Irving</author_surname>
+        <author_id>5203</author_id>
+        <gender>male</gender>
+        <nationality>american</nationality>
+        <birth_date>1942</birth_date>
+    </author>
+    <date_release>1978</date_release>
+    <language>english</language>
+    <number_pages>609</number_pages>
+    <isbn>345915593</isbn>
+    <publisher>
+       <publisher_name>Ballantine Books</publisher_name>
+       <publisher_id>334</publisher_id>
+       <country>USA</country>
+    </publisher>
+ </book>
+ 
+  <book>
+    <book_id>12</book_id>
+    <title lang="en">The Stepford Wives</title>
+    <author>
+        <author_name>Ira</author_name>
+        <author_surname>Levin</author_surname>
+        <author_id>2708</author_id>
+        <gender>male</gender>
+        <nationality>american</nationality>
+        <birth_date>1929</birth_date>
+        <death_date>2007</death_date>
+    </author>
+    <date_release>1972</date_release>
+    <language>english</language>
+    <number_pages>144</number_pages>
+    <isbn>60080841</isbn>
+    <publisher>
+       <publisher_name>Harper Perennial</publisher_name>
+       <publisher_id>403</publisher_id>
+       <country>USA</country>
+    </publisher>
+  </book>
+  
+</list of my favourite books>
